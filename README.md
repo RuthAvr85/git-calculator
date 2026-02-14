@@ -10,3 +10,15 @@ A simple command-line calculator built with Python.
 ```bash
 python main.py
 ```
+
+## Testing
+
+Install pytest:
+```bash
+pip install pytest
+```
+
+Run tests:
+```bash
+pytest test_calculator.py
+```
